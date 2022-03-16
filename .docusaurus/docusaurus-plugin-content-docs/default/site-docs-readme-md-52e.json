@@ -1,0 +1,19 @@
+{
+  "unversionedId": "readme",
+  "id": "readme",
+  "title": "Иммиграционные меры Канады для людей, затронутых войной в Украине",
+  "description": "Обновлено: 9 марта 2022 г.",
+  "source": "@site/docs/readme.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/readme.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "slug": "/",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar"
+}

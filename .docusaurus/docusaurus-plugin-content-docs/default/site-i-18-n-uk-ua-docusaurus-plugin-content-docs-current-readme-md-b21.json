@@ -1,0 +1,15 @@
+{
+  "unversionedId": "readme",
+  "id": "readme",
+  "title": "Міграційні заходи Канади для людей, постраждалих від війни в Україні",
+  "description": "Оновлено: 9 березня 2020 р.",
+  "source": "@site/i18n/uk-ua/docusaurus-plugin-content-docs/current/readme.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/uk-ua/",
+  "editUrl": "https://github.com/narviii/ukraine2canada/docs/readme.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar"
+}

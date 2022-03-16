@@ -1,0 +1,27 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Міграційні заходи Канади для людей, постраждалих від війни в Україні",
+        "href": "/uk-ua/",
+        "docId": "readme"
+      }
+    ]
+  },
+  "docs": {
+    "readme": {
+      "id": "readme",
+      "title": "Міграційні заходи Канади для людей, постраждалих від війни в Україні",
+      "description": "Оновлено: 9 березня 2020 р.",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}
