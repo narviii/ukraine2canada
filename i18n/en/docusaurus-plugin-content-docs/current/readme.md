@@ -2,23 +2,19 @@
 Updated: March 9, 2022
 This is a summary for convenience purposes and not an official source. You can find links to the official sources and contacts to receive FREE professional advice at the end of this document.
 
-[Ukrainian version | Версія українською мовою](/readme_ukr.md)
-
-[Russian version | Версия на русском языке](/readme.md)
 ## Summary
 Canadian programs for Ukrainian refugees are not published yet. The first new programs are expected in about one week. Meanwhile, Canadian immigration prioritizes standard processes for Ukrainians. 
 > According to unofficial sources, a tourist (temporary resident) visa approval currently takes about 2 days.
 
 ## The standard visa application process
-1. **Apply for a visa [online.](https://www.cic.gc.ca/english/information/applications/visa.asp)**
+1. **Apply for a visa [online.](https://www.cic.gc.ca/english/information/applications/visa.asp).** 
 Available from Ukraine or abroad
 > IRCC will waive fees, retroactive to February 22, 2022
-2. **Provide biometrics (photo, fingerprints).**
-It has to be done in person, currently not available in Ukraine. 
+2. **Provide biometrics (photo, fingerprints).**It has to be done in person, currently not available in Ukraine. 
 > If you provided biometrics for Canadian visas in the past, they still may be valid, you can check it here 
-3. **Provide your passport if your visa is approved.**
-You will receive instructions on how to provide your passport. You will have 30 days to do it. Currently not available in Ukraine but it can be done in most other countries.
+3. **Provide your passport if your visa is approved.** You will receive instructions on how to provide your passport. You will have 30 days to do it. Currently not available in Ukraine but it can be done in most other countries.
 > This is a standard process for a visitor (temporary resident) visa. However, IRCC also prioritizes Ukrainians’ applications for permanent residence, proof of citizenship, and citizenship grant for adoption.
+
 ## New measures 
 Canadian immigration authorities are currently working on the following pathways:
 - **Canada-Ukraine Authorization for Emergency Travel.**
@@ -69,5 +65,4 @@ Monday to Friday
 Anyvisa agency in Vancouver provides free immigration assistance. Contact via email [imm.support@anyvisa.ca](mailto:imm.support@anyvisa.ca)
 ## Something unclear?
 This summary aims to simplify the initial research. If you need professional advice, please contact Anyvisa (contacts are above). However, if something in this document isn’t clear, you see a way for improvements or found a mistake, please contact me via telegram [@dariageneralova](https://t.me/dariageneralova).
-
 

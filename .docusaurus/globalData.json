@@ -1,0 +1,32 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/uk-ua/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/uk-ua/",
+          "mainDocId": "readme",
+          "docs": [
+            {
+              "id": "readme",
+              "path": "/uk-ua/",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/uk-ua/",
+                "label": "readme"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
