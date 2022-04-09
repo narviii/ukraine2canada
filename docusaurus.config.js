@@ -6,18 +6,18 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Ukraine2Canada',
-  tagline: 'Война в Украине',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'UA to Canada',
+  tagline:'Ресурс посвященный эммиграции в Канаду из Украины',
+  url: 'https://ua2canada.info',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'ukraine2canada', // Usually your GitHub org/user name.
-  projectName: 'ukraine2canada', // Usually your repo name.
+  organizationName: 'UA to Canada', // Usually your GitHub org/user name.
+  projectName: 'UA to Canada', // Usually your repo name.
   i18n: {
     defaultLocale: 'ru',
-    locales: ['ru', 'en', 'uk-ua']
+    locales: ['ru']
   },
 
   presets: [
@@ -33,18 +33,24 @@ const config = {
           editUrl: 'https://github.com/narviii/ukraine2canada/tree/master',
         },
         blog: false,
+        googleAnalytics: {
+          trackingID: 'UA-39274880-6',
+          anonymizeIP: true,
+        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
       }),
+      
     ],
   ],
+  
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Ukraine2Canada',
+        title: 'UA to Canada',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -52,9 +58,9 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'readme',
+            docId: 'cuaet',
             position: 'left',
-            label: 'Documents',
+            label: 'Информация',
           },
           
           {
@@ -73,11 +79,11 @@ const config = {
         links: [
           
           {
-            title: 'Contacts',
+            title: 'Links',
             items: [
               {
-                label: 'Created by Dasha Generalova',
-                href: 'https://t.me/dariageneralova',
+                label: 'UA to Canada. Telegram channel.',
+                href: 'https://t.me/UAtoCanada',
               },
             ],
           },
@@ -85,7 +91,7 @@ const config = {
             
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Ukraine2Canada. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} UA to Canada. Built with magic by Vlad Sofronov.`,
       },
       prism: {
         theme: lightCodeTheme,
