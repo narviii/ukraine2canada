@@ -41,13 +41,13 @@ CUAET - НЕ беженство, а статус [temporary resident](https://ww
 
 ⛔️ Если в аккаунте сообщение об ошибке “system operation failed” [ссылка](https://t.me/UAtoCanada/14921)
 
-👇🏽 Гайд по заполнению на английском [ссылка](https://t.me/UAtoCanada/5594)
+👇🏽 Гайд по заполнению на английском [ссылка](/UPDATED_TRV_Guide.pdf)
 
 👇🏽 Видео на украинском [ссылка](https://t.me/UAtoCanada/5598)
 
-🏡 🇨🇦 Fb группа помощи с жильём [ссылка](https://m.facebook.com/groups/3148765652075065/?ref=share)
+🏡 🇨🇦 Fb группа помощи с жильём [ссылка](https://facebook.com/groups/3148765652075065/?ref=share)
 
-💊 Медстраховка в Канаде [ссылка](https://t.me/UAtoCanada/15998)
+💊 Медицинская страховка в различных провинциях Канады [ссылка](https://docs.google.com/spreadsheets/d/1AuR536sq6cMBqTCqpjDSI1Dp6ZSx1MiowMCmLFm_4Ug/edit#gid=0)
 
 👩🏼‍💻 Портал для украинцев, которые хотят работать в Виннипеге (Манитоба) [ссылка](https://t.me/UAtoCanada/17981)
 
