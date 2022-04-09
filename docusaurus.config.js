@@ -53,7 +53,7 @@ const config = {
         title: 'UA to Canada',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/can2ukr.jpeg',
         },
         items: [
           {
