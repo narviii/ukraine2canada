@@ -30,7 +30,7 @@ const config = {
           routeBasePath: '/', // Serve the docs at the site's root
           /* other docs plugin options */
           // Please change this to your repo.
-          editUrl: 'https://github.com/narviii/ukraine2canada/tree/master',
+          //editUrl: 'https://github.com/narviii/ukraine2canada/tree/master',
         },
         blog: false,
         googleAnalytics: {
