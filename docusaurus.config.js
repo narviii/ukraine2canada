@@ -60,7 +60,7 @@ const config = {
             type: 'doc',
             docId: 'cuaet',
             position: 'left',
-            label: 'Информация',
+            label: 'Информация по материалам чата',
           },
           
           {
