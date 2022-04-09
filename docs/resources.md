@@ -8,4 +8,5 @@ sidebar_position: 3
 - [Канадская беседка, филиал @canadakaknado](https://t.me/CanadaBower) Данный чат - ответвление чата [@canadakaknado](https://t.me/canadakaknado) для обсуждения тем, не относящихся напрямую к иммиграции в Канаду. 
 - [Канада IT](https://t.me/canada_it). IT В Канаде. Поиск работы, обсуждения.
 - [dopomogaCAN](https://t.me/dopomogaCAN). Телеграм канал и [FB group](https://www.facebook.com/groups/375451514101214). 
+- [UA-Manitoba job opportunities](https://t.me/ua_manitoba_job_opportunities) - Чат с вакансиями в Виннипеге для граждан Украины и их семей.
   
