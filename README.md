@@ -1,3 +1,3 @@
-# ukraine2canada
+# UA to Canada.
 
-Educational materials for people, who are affected by the war in Ukraine and want to immigrate or seek refuge in Canada.
+Информационный веб-сайт с материалами накопленными участниками и модератарами чата [UA to Canada](https://t.me/UAtoCanada)
