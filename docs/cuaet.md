@@ -43,7 +43,7 @@ CUAET - НЕ беженство, а статус [temporary resident](https://ww
 
 👇🏽 Гайд по заполнению на английском [ссылка](/UPDATED_TRV_Guide.pdf)
 
-👇🏽 Видео на украинском [ссылка](https://t.me/UAtoCanada/5598)
+👇🏽 Видео на украинском [ссылка](https://fb.watch/bQAE_KJ_j8/)
 
 🏡 🇨🇦 Fb группа помощи с жильём [ссылка](https://facebook.com/groups/3148765652075065/?ref=share)
 
