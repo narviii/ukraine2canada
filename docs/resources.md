@@ -9,4 +9,4 @@ sidebar_position: 3
 - [Канада IT](https://t.me/canada_it). IT В Канаде. Поиск работы, обсуждения.
 - [dopomogaCAN](https://t.me/dopomogaCAN). Телеграм канал и [FB group](https://www.facebook.com/groups/375451514101214). 
 - [UA-Manitoba job opportunities](https://t.me/ua_manitoba_job_opportunities) - Чат с вакансиями в Виннипеге для граждан Украины и их семей.
-  
+- [Canada newcomers](https://t.me/canadiannewcomers) - After you get your visa, you’re welcome here to find info about first months in Canada
