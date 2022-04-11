@@ -9,7 +9,7 @@ sidebar_position: 3
 - [Канада как надо](https://t.me/canadakaknado) Как переехать жить в Канаду. Достоверная [информация](https://canadakaknado.info/) о том, как переехать в Канаду. 
 - [Канадская беседка, филиал @canadakaknado](https://t.me/CanadaBower) Данный чат - ответвление чата [@canadakaknado](https://t.me/canadakaknado) для обсуждения тем, не относящихся напрямую к иммиграции в Канаду. 
 - [Канада IT](https://t.me/canada_it). IT В Канаде. Поиск работы, обсуждения.
-- [dopomogaCAN](https://t.me/dopomogaCAN). Телеграм канал и 
+- [dopomogaCAN](https://t.me/dopomogaCAN). Телеграм канал помощи украинцам.
 - [UA-Manitoba job opportunities](https://t.me/ua_manitoba_job_opportunities) - Чат с вакансиями в Виннипеге для граждан Украины и их семей.
 - [Canada newcomers](https://t.me/canadiannewcomers) - After you get your visa, you’re welcome here to find info about first months in Canada
 - [Чат Канада: от учебы до работы](https://t.me/canada_from_study_to_work) - Чат Канада: от учебы до работы.  
