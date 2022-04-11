@@ -11,7 +11,8 @@ sidebar_position: 3
 - [dopomogaCAN](https://t.me/dopomogaCAN). Телеграм канал и 
 - [UA-Manitoba job opportunities](https://t.me/ua_manitoba_job_opportunities) - Чат с вакансиями в Виннипеге для граждан Украины и их семей.
 - [Canada newcomers](https://t.me/canadiannewcomers) - After you get your visa, you’re welcome here to find info about first months in Canada
-
+- [Чат Канада: от учебы до работы](https://t.me/canada_from_study_to_work) - Чат Канада: от учебы до работы.  
+  
 ## FB groups
 - [Ukrainian Women in Calgary.](https://www.facebook.com/groups/ukrainiancalgary) Українці в Калгарі. Ми тут є!))).  
 - [Ukrainians of Calgary.](https://www.facebook.com/groups/UkrainiansofCalgary/) Ця група створена для Українців Калгарі та передмістя Калгарі. Зараз наша група сфокусована на допомозі Україні, материально та інформаційно.  
