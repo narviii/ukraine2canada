@@ -20,3 +20,4 @@ sidebar_position: 3
 
 ## Web ресурсы
 - [Project Sunflower](https://www.projectsunflower.ca/) ПРОЕКТ СОНЯШНИК. Project Sunflower. Помощь newcomers из Southern Alberta.
+- [I CAN HELP](https://icanhelp.host/) Solidarity platform created by a dedicated team of volunteers in response to a humanitarian crisis caused by an aggression of Russian military forces against Ukraine.
