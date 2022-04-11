@@ -14,10 +14,10 @@ sidebar_position: 3
 - [Чат Канада: от учебы до работы](https://t.me/canada_from_study_to_work) - Чат Канада: от учебы до работы.  
   
 ## FB groups
-- [Ukrainian Women in Calgary.](https://www.facebook.com/groups/ukrainiancalgary) Українці в Калгарі. Ми тут є!))).  
-- [Ukrainians of Calgary.](https://www.facebook.com/groups/UkrainiansofCalgary/) Ця група створена для Українців Калгарі та передмістя Калгарі. Зараз наша група сфокусована на допомозі Україні, материально та інформаційно.  
+- [Ukrainian Women in Calgary.](https://www.facebook.com/groups/ukrainiancalgary) Албберта. Українці в Калгарі. Ми тут є!))).  
+- [Ukrainians of Calgary.](https://www.facebook.com/groups/UkrainiansofCalgary/) Альберта. Ця група створена для Українців Калгарі та передмістя Калгарі. Зараз наша група сфокусована на допомозі Україні, материально та інформаційно.  
 - [dopomogaCAN](https://www.facebook.com/groups/375451514101214). Помощь Украинцам.
 
 ## Web ресурсы
-- [Project Sunflower](https://www.projectsunflower.ca/) ПРОЕКТ СОНЯШНИК. Project Sunflower. Помощь newcomers из Southern Alberta.
+- [Project Sunflower](https://www.projectsunflower.ca/) Альберта. ПРОЕКТ СОНЯШНИК. Project Sunflower. Помощь newcomers из Southern Alberta.
 - [I CAN HELP](https://icanhelp.host/) Solidarity platform created by a dedicated team of volunteers in response to a humanitarian crisis caused by an aggression of Russian military forces against Ukraine.
