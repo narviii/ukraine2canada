@@ -17,6 +17,7 @@ sidebar_position: 1
 CUAET - НЕ беженство, а статус [temporary resident](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents.html). Рассчитывать придётся только на себя, искать помощь от местных в группах на Facebook.
 :::
 
+## Детали 
 - Виза даётся на срок до 10 лет или до окончания паспорта и даёт возможность подаваться на work permit во время подачи на визу. (бесплатно).
 - Срок рассмотрения - до 14 дней.
 - Work permit выдаётся на границе по приезду, если вы подавались outside Canada.
