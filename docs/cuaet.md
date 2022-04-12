@@ -11,6 +11,7 @@ sidebar_position: 1
 - [Податься](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures/portal-application-ukraine-cuaet.html) на CUAET.
 - [UA to Canada.](https://t.me/UAtoCanada) Задать вопрос, если непонятно. Но, сперва, прочитав [правила](chat_rules.md). По материалам чата, составлен этот сайт.
 - [Cтатистика](https://docs.google.com/spreadsheets/d/1sgUPbogDw7V4rakrBSJ07_YLhvVem79rtGq7Xj__ec0/edit#gid=0) по срокам рассмотрения кейсов участников чата.
+- [FAQ] Читать часто задаваемые вопросы. Велик шанс, что на ваш вопрос уже есть ответ там.
 
 :::caution
 CUAET - НЕ беженство, а статус [temporary resident](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents.html). Рассчитывать придётся только на себя, искать помощь от местных в группах на Facebook.
