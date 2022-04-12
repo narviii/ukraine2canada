@@ -13,6 +13,7 @@ sidebar_position: 3
 - [UA-Manitoba job opportunities](https://t.me/ua_manitoba_job_opportunities) - Чат с вакансиями в Виннипеге для граждан Украины и их семей.
 - [Canada newcomers](https://t.me/canadiannewcomers) - After you get your visa, you’re welcome here to find info about first months in Canada.
 - [Чат Канада: от учебы до работы](https://t.me/canada_from_study_to_work) - Чат Канада: от учебы до работы.  
+- [Ванкуверская беседка](https://t.me/VancouverAlcove) Чат про жизнь в Ванкувере. 
   
 ## FB groups
 - [Ukrainian Women in Calgary.](https://www.facebook.com/groups/ukrainiancalgary) Албберта. Українці в Калгарі. Ми тут є!))).  
