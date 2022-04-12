@@ -37,7 +37,7 @@ CUAET - НЕ беженство, а статус [temporary resident](https://ww
 
 💉 Правила въезда для невакцинированных [ссылка](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures/vaccination-exemption.html)
 
-👩‍👧‍👦 Если нужно разрешение на вывоз детей [ссылка](https://t.me/UAtoCanada/14948)
+👩‍👧‍👦 Если нужно разрешение на вывоз детей [ссылка](children.md)
 
 ⛔️ Если в аккаунте сообщение об ошибке “system operation failed” [ссылка](https://t.me/UAtoCanada/14921)
 
