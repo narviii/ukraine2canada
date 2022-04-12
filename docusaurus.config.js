@@ -85,6 +85,13 @@ const config = {
                 label: 'UA to Canada. Telegram channel.',
                 href: 'https://t.me/UAtoCanada',
               },
+              {
+                html:`
+                <p>
+                Обнаружили неточности? Пишите админам канала или <a href="mailto:narviii@gmail.com">Vlad Sofronov</a>.
+                <p>
+                `
+              }
               
             ],
           },
