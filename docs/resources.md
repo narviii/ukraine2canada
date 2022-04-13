@@ -26,4 +26,5 @@ sidebar_position: 3
 - [I CAN HELP](https://icanhelp.host/) Solidarity platform created by a dedicated team of volunteers in response to a humanitarian crisis caused by an aggression of Russian military forces against Ukraine.
 
 ## Каналы телеграм, про жизнь в Канаде.
-- [🦫 Beavers and 🦦 Otters](https://t.me/beaversandotters) Про иммиграцию, Канаду, бизнес и личное, серьезно и совсем нет. 
+- [🦫 Beavers and 🦦 Otters](https://t.me/beaversandotters) Про иммиграцию, Канаду, бизнес и личное, серьезно и совсем нет.  
+- [Ann-ticipation of Canada, AB](https://t.me/annticipation) Иммиграция в Альберту. Дети, медецина, адаптация.
