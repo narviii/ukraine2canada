@@ -88,8 +88,9 @@ const config = {
               {
                 html:`
                 <p>
-                Обнаружили неточности? Пишите админам канала или <a href="mailto:narviii@gmail.com">Vlad Sofronov</a>.
+                Обнаружили неточности? Пишите админам канала или <a href="mailto:narviii@gmail.com">мне</a>. Так же, можно оставить issue в <a href="https://github.com/narviii/ukraine2canada/issues">репозитории</a>.
                 <p>
+                
                 `
               }
               
