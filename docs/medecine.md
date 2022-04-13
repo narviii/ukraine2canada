@@ -40,8 +40,11 @@ sidebar_position: 5
 ## British Columbia
 
 Требования: **Work permit**.  
-Период ожидания: **С первого дня для CUAET.**  
+Период ожидания: **До трех месяцев.**  
 [Ссылка на программу](https://www2.gov.bc.ca/gov/content/health/health-drug-coverage/msp/bc-residents/eligibility-and-enrolment/how-to-enrol)
+:::info
+Изначально провинция обещала сделать с первого дня, для приезжающих по CUAET, но по факту пока это не работает.
+:::
 
 ## Prince Edward Island
 
