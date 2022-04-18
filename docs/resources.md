@@ -28,6 +28,7 @@ sidebar_position: 3
 - [I CAN HELP](https://icanhelp.host/) Solidarity platform created by a dedicated team of volunteers in response to a humanitarian crisis caused by an aggression of Russian military forces against Ukraine.
 - [Help Us Help Ukraine](https://en.uahelp.ca/) Помощь с жильем, трудоустройством, документами, билетами на самолет и интеграции в целом. Проект Украинской Католической Цервки New Westminster.
 - [Ukrainian Vancouver](https://www.ukrainianvancouver.com/) Ukrainian Vancouver is an independent community platform connecting people in Vancouver with resources to assist Ukrainians in their time of need.
+- [Jobs for Ukraine](https://www.jobbank.gc.ca/report_note.do?cid=18538) Официальная база работы для прибывающих украинцев, созданная Канадой.
 
 
 ## Каналы телеграм, про жизнь в Канаде.
