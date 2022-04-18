@@ -34,13 +34,13 @@ CUAET - НЕ беженство, а статус [temporary resident](https://ww
 
 ## Полезная информация 
 
-⚜️ Прибывающим в Квебек, будет оказанна [помощь](https://www.quebec.ca/immigration/accueil-ukrainiens/en-ukrainien). В аэропорту **Pierre Elliott Trudeau International Airport** установленна будка, чтобы помочь прилетевшим 🇺🇦.
+👋 Прибывающим в ⚜️ Квебек, будет оказанна [помощь](https://www.quebec.ca/immigration/accueil-ukrainiens/en-ukrainien). В аэропорту **Pierre Elliott Trudeau International Airport** установленна будка, чтобы помочь прилетевшим 🇺🇦.
 
-🆕 UPDATE! [FOIL-LESS VISA](foilless_visa.md). Для ускорения получения документов для вылета в Канаду, IRCC сделали новый вид документа.
+🆕 Что такое [FOIL-LESS VISA](foilless_visa.md). Для ускорения получения документов для вылета в Канаду, IRCC сделали новый вид документа.
 
-🌍 Список VAC, для сдачи био [ссылка]( https://www.canada.ca/en/immigration-refugees-citizenship/corporate/contact-ircc/offices/find-visa-application-centre.html)
+🌍 Список [Visa Application Center(VAC)](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/contact-ircc/offices/find-visa-application-centre.html), для сдачи биометрии.
 
-🆕 Доп центры сдачи био для украинцев [ссылка](https://visa.vfsglobal.com/aut/en/can/book-an-appointment)
+🆕 Дополнительные центры сдачи биометрии для украинцев [ссылка](https://visa.vfsglobal.com/aut/en/can/book-an-appointment)
 
 💉 Правила въезда для невакцинированных [ссылка](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures/vaccination-exemption.html)
 
