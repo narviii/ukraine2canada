@@ -7,7 +7,7 @@ sidebar_position: 1
 
 ## Программа CUAET (Canada-Ukraine Authorization for Emergency Travel)
 
-- [Информация](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures/cuaet.html) о программе.
+- [Информация](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures/cuaet.html) о программе. На [🇺🇦 украинском](https://www.canada.ca/en/immigration-refugees-citizenship/news/2022/03/canada-ukraine-authorization-for-emergency-travel-en-ua.html)
 - [Податься](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures/portal-application-ukraine-cuaet.html) на CUAET.
 - [UA to Canada.](https://t.me/UAtoCanada) Задать вопрос, если непонятно. Но, сперва, прочитав [правила](chat_rules.md). По материалам чата, составлен этот сайт.
 - [Cтатистика](https://docs.google.com/spreadsheets/d/1sgUPbogDw7V4rakrBSJ07_YLhvVem79rtGq7Xj__ec0/edit#gid=0) по срокам рассмотрения кейсов участников чата.
