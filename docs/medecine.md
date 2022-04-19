@@ -92,5 +92,5 @@ sidebar_position: 5
 Страховка в подавляющем большинстве случаев покрывает основного заявителя и членов семьи, живущих вместе с ним.  
 :::
 
-Материал подготовлен [Konstantin Fedorov](https://t.me/paors), модератором чата UA to CANADA. [Ссылка](https://docs.google.com/spreadsheets/d/1AuR536sq6cMBqTCqpjDSI1Dp6ZSx1MiowMCmLFm_4Ug/edit#gid=0) на оргиниальную таблицу.
+Первый вариант материала подготовлен [Konstantin Fedorov](https://t.me/paors), модератором чата UA to CANADA. [Ссылка](https://docs.google.com/spreadsheets/d/1AuR536sq6cMBqTCqpjDSI1Dp6ZSx1MiowMCmLFm_4Ug/edit#gid=0) на оригиниальную таблицу.
 
