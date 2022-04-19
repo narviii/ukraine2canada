@@ -10,7 +10,13 @@ sidebar_position: 5
 ## Ontario
 Требования: **Work permit+fulltime job**.  
 Период ожидания: **С первого дня (временно)**  
-[Ссылка на программу](https://www.ontario.ca/page/apply-ohip-and-get-health-card)  
+- Информация о программе. [английский](https://www.ontario.ca/page/apply-ohip-and-get-health-card)  
+- С чего начать? [русский](https://health.gov.on.ca/en/common/system/docs/getting_started_fs_russian.pdf),[украинский](https://health.gov.on.ca/en/common/system/docs/getting_started_fs_ukrainian.pdf)  
+- Получение медицинского обслуживания. [русский](https://health.gov.on.ca/en/common/system/docs/getting_medical_care_fs_russian.pdf),[украинский](https://health.gov.on.ca/en/common/system/docs/getting_medical_care_fs_ukrainian.pdf)  
+- Получение неотложной помощи. [русский](https://health.gov.on.ca/en/common/system/docs/getting_emergency_care_fs_russian.pdf),[украинский](https://health.gov.on.ca/en/common/system/docs/getting_emergency_care_fs_ukrainian.pdf)  
+- Получение лекарств, отпускаемых по рецепту. [русский](https://health.gov.on.ca/en/common/system/docs/getting_prescription_drugs_fs_russian.pdf), [украинский](https://health.gov.on.ca/en/common/system/docs/getting_prescription_drugs_fs_ukrainian.pdf)  
+
+
 :::info
 Период ожидания в три месяца временно отменен в связи с пандемией, но позднее может быть возобновлен
 :::
