@@ -64,6 +64,8 @@ CUAET - НЕ беженство, а статус [temporary resident](https://ww
 
 ✈️ Скидки LOT для украинцев [ссылка](https://www.lot.com/ca/en/explore/coronavirus-travel-information/procedure-rebooking-refund-ukraine)
 
+✈️ Бесплатные билеты [WizzAir](https://wizzair.com/en-gb/information-and-services/faq/ukrainian-refugee-free-tickets?fbclid=IwAR2V3ZPH_I001iQxoPshWbHunWUDhpO6-gFl_Xj9a0ipCgCzIgeAQ1IyBJk)
+
 👋 Помощь правительства Британской Колумбии(провинция Канады) прибывающим украинцам. Информация, жилье, трудоустройство. На [английском](https://www2.gov.bc.ca/gov/content/tourism-immigration/ukraine/welcome), [русском](https://www2.gov.bc.ca/gov/content/tourism-immigration/ukraine/translation/ru), [українська](https://www2.gov.bc.ca/gov/content/tourism-immigration/ukraine/translation/ukr). Горячая линия ServiceBC работающая на 140 языках(включая русский и украинский) **1-800-663-7867**. Время работы с 7:30 am до 5 pm (по Ванкуверу).
 
 :::tip
