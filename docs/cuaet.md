@@ -44,25 +44,27 @@ CUAET - НЕ беженство, а статус [temporary resident](https://ww
 
 🌍 Список [Visa Application Center(VAC)](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/contact-ircc/offices/find-visa-application-centre.html), для сдачи биометрии.
 
-🆕 Дополнительные центры сдачи биометрии для украинцев [ссылка](https://visa.vfsglobal.com/aut/en/can/book-an-appointment)
+🆕 Дополнительные [центры сдачи биометрии]((https://visa.vfsglobal.com/aut/en/can/book-an-appointment)
+) для украинцев.  
 
-💉 Правила въезда для невакцинированных [ссылка](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures/vaccination-exemption.html)
+💉 Правила въезда для [невакцинированных](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures/vaccination-exemption.html)
 
-👩‍👧‍👦 Если нужно разрешение на вывоз детей [ссылка](children.md)
+👩‍👧‍👦 Если нужно [разрешение на вывоз детей](children.md)
 
-⛔️ Если в аккаунте сообщение об ошибке “system operation failed” [ссылка](https://t.me/UAtoCanada/14921)
+⛔️ Если в аккаунте сообщение об ошибке [system operation failed](https://t.me/UAtoCanada/14921)
 
-👇🏽 Гайд по заполнению на английском [ссылка](/UPDATED_TRV_Guide.pdf)
+👇🏽 [Гайд](/UPDATED_TRV_Guide.pdf) по заполнению на английском.  
 
-👇🏽 Видео на украинском [ссылка](https://fb.watch/bQAE_KJ_j8/)
+👇🏽 [Видео]((https://fb.watch/bQAE_KJ_j8/)) на украинском.
 
-🏡 🇨🇦 Fb группа помощи с жильём [ссылка](https://facebook.com/groups/3148765652075065/?ref=share)
+🏡 🇨🇦 [Facebook группа](https://facebook.com/groups/3148765652075065/?ref=share) помощи с жильём.  
 
-💊 Медицинская страховка в различных провинциях Канады [ссылка](medecine.md)
+💊 [Медицинская страховка](medecine.md) в различных провинциях Канады.
 
-👩🏼‍💻 Портал для украинцев, которые хотят работать в Виннипеге (Манитоба) [ссылка](https://t.me/UAtoCanada/17981)
+👩🏼‍💻 Портал для украинцев, которые хотят работать в [Виннипеге (Манитоба)](https://t.me/UAtoCanada/17981)
 
-✈️ Скидки LOT для украинцев [ссылка](https://www.lot.com/ca/en/explore/coronavirus-travel-information/procedure-rebooking-refund-ukraine)
+✈️ Скидки [LOT](https://www.lot.com/ca/en/explore/coronavirus-travel-information/procedure-rebooking-refund-ukraine)
+ для украинцев.  
 
 ✈️ Бесплатные билеты [WizzAir](https://wizzair.com/en-gb/information-and-services/faq/ukrainian-refugee-free-tickets?fbclid=IwAR2V3ZPH_I001iQxoPshWbHunWUDhpO6-gFl_Xj9a0ipCgCzIgeAQ1IyBJk)
 
@@ -72,9 +74,9 @@ CUAET - НЕ беженство, а статус [temporary resident](https://ww
 Подаваться на work and study permit, по CUAET, находясь в Канаде, можно! 
 :::
 
-💻 Инфо о work permit [ссылка](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures/ukraine-open-work-permit.html)
+💻 Информация о [work permit](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures/ukraine-open-work-permit.html)
 
-🎓 Инфо о study permit [ссылка](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures/study.html)
+🎓 Информация о [study permit](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures/study.html)
 
 ## Связь с IRCC
 
