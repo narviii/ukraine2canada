@@ -36,10 +36,6 @@ CUAET - НЕ беженство, а статус [temporary resident](https://ww
 
 ❓Ответы на [часто задаваемые вопросы](https://ircc.canada.ca/english/helpcentre/index-featured-can.asp) от IRCC(канадская иммиграция), включая апдейты по CUAET.
 
-💰 Финансовая поддержка от Онтарио, прибыающим по [CUAET](https://www.ontario.ca/page/apply-emergency-assistance).
-
-👋 Прибывающим в ⚜️ Квебек, будет оказанна помощь. [Информация о программе](https://www.quebec.ca/immigration/accueil-ukrainiens/en-ukrainien). Так же, в аэропорту **Pierre Elliott Trudeau International Airport** установленна будка, чтобы помочь прилетевшим 🇺🇦.
-
 🆕 Что такое [FOIL-LESS VISA](foilless_visa.md). Для ускорения получения документов для вылета в Канаду, IRCC сделали новый вид документа.
 
 🌍 Список [Visa Application Center(VAC)](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/contact-ircc/offices/find-visa-application-centre.html), для сдачи биометрии.
@@ -72,6 +68,11 @@ CUAET - НЕ беженство, а статус [temporary resident](https://ww
 📖 Официальный [гайд для прибывающих](https://settlement.org/o2o/downloads/O2O-Workbook-Ukrainian-2022.pdf) в Онтарио украинцев.  
 
 👋 [Бесплатная(pro bono)](https://www.cba.org/For-The-Public/Pro-Bono-Initiatives/Crisis-in-Ukraine) юридическая помощь для украинцев от Канадской Ассоциации Юристов(CBA Immigration Ukraine Pro Bono Initiative)  
+
+💰 Финансовая поддержка от Онтарио, прибыающим по [CUAET](https://www.ontario.ca/page/apply-emergency-assistance).
+
+👋 Прибывающим в ⚜️ Квебек, будет оказанна помощь. [Информация о программе](https://www.quebec.ca/immigration/accueil-ukrainiens/en-ukrainien). Так же, в аэропорту **Pierre Elliott Trudeau International Airport** установленна будка, чтобы помочь прилетевшим 🇺🇦.
+
 
 :::tip
 Подаваться на work and study permit, по CUAET, находясь в Канаде, можно! 
