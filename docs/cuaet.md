@@ -44,8 +44,7 @@ CUAET - НЕ беженство, а статус [temporary resident](https://ww
 
 🌍 Список [Visa Application Center(VAC)](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/contact-ircc/offices/find-visa-application-centre.html), для сдачи биометрии.
 
-🆕 Дополнительные [центры сдачи биометрии]((https://visa.vfsglobal.com/aut/en/can/book-an-appointment)
-) для украинцев.  
+🆕 Дополнительные [центры сдачи биометрии](https://visa.vfsglobal.com/aut/en/can/book-an-appointment) для украинцев.  
 
 💉 Правила въезда для [невакцинированных](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures/vaccination-exemption.html)
 
@@ -55,7 +54,7 @@ CUAET - НЕ беженство, а статус [temporary resident](https://ww
 
 👇🏽 [Гайд](/UPDATED_TRV_Guide.pdf) по заполнению на английском.  
 
-👇🏽 [Видео]((https://fb.watch/bQAE_KJ_j8/)) на украинском.
+👇🏽 [Видео](https://fb.watch/bQAE_KJ_j8/) на украинском.
 
 🏡 🇨🇦 [Facebook группа](https://facebook.com/groups/3148765652075065/?ref=share) помощи с жильём.  
 
