@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'UA to Canada',
-  tagline:'Ресурс посвященный эммиграции в Канаду из Украины',
+  tagline: 'Ресурс посвященный эммиграции в Канаду из Украины',
   url: 'https://ua2canada.info',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -26,6 +26,8 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          showLastUpdateAuthor: false,
+          showLastUpdateTime: true,
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/', // Serve the docs at the site's root
           /* other docs plugin options */
@@ -33,6 +35,7 @@ const config = {
           //editUrl: 'https://github.com/narviii/ukraine2canada/tree/master',
         },
         blog: false,
+
         googleAnalytics: {
           trackingID: 'UA-39274880-6',
           anonymizeIP: true,
@@ -41,10 +44,10 @@ const config = {
           customCss: require.resolve('./src/css/custom.css'),
         },
       }),
-      
+
     ],
   ],
-  
+
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -62,7 +65,7 @@ const config = {
             position: 'left',
             label: 'Информация по материалам чата',
           },
-          
+
           {
             href: 'https://github.com/narviii/ukraine2canada',
             label: 'GitHub',
@@ -77,7 +80,7 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          
+
           {
             title: 'Links',
             items: [
@@ -86,18 +89,18 @@ const config = {
                 href: 'https://t.me/UAtoCanada',
               },
               {
-                html:`
+                html: `
                 <p>
                 Обнаружили неточности? Пишите админам канала или <a href="mailto:narviii@gmail.com">мне</a>. Так же, можно оставить issue в <a href="https://github.com/narviii/ukraine2canada/issues">репозитории</a>.
                 <p>
                 
                 `
               }
-              
+
             ],
           },
           {
-            
+
           },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} UA to Canada. Built with magic by Vlad Sofronov.`,
