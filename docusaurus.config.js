@@ -34,7 +34,11 @@ const config = {
           // Please change this to your repo.
           //editUrl: 'https://github.com/narviii/ukraine2canada/tree/master',
         },
-        blog: false,
+        blog: {
+          blogTitle: 'Новости о Канаде и иммиграции',
+          //blogDescription: 'A Docusaurus powered blog!',
+          postsPerPage: 'ALL',
+        },
 
         googleAnalytics: {
           trackingID: 'UA-39274880-6',
@@ -63,8 +67,9 @@ const config = {
             type: 'doc',
             docId: 'cuaet',
             position: 'left',
-            label: 'Информация по материалам чата',
+            label: 'Информация',
           },
+          {to: 'blog', label: 'Новости', position: 'left'}, // or position: 'right'
 
           {
             href: 'https://github.com/narviii/ukraine2canada',
