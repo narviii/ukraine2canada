@@ -3,21 +3,21 @@ slug: /
 sidebar_position: 1
 ---
 
-# 🇺🇦 ✈️ 🇨🇦  Как попасть в Канаду.
+# 🇺🇦 ✈️ 🇨🇦  Иммиграция в Канаду для граждан Украины.
 
 ## Программа CUAET (Canada-Ukraine Authorization for Emergency Travel)
 
-- Информация о программе CUAET на [ 🇬🇧 английском](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures/cuaet.html),[ 🇺🇦 украинском](https://www.canada.ca/en/immigration-refugees-citizenship/news/2022/03/canada-ukraine-authorization-for-emergency-travel-en-ua.html).
-- [Податься](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures/portal-application-ukraine-cuaet.html) на CUAET.
-- [UA to Canada.](https://t.me/UAtoCanada) Задать вопрос, если непонятно. Но, сперва, прочитав [правила](chat_rules.md). По материалам чата, составлен этот сайт.
-- [Cтатистика](https://docs.google.com/spreadsheets/d/1sgUPbogDw7V4rakrBSJ07_YLhvVem79rtGq7Xj__ec0/edit#gid=0) по срокам рассмотрения кейсов участников чата.
-- Читать [FAQ](faq.md)(часто задаваемые вопросы). Велик шанс, что на ваш вопрос уже есть ответ там.
+- Изучить информацию о программе CUAET на [ 🇬🇧 английском](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures/cuaet.html),[ 🇺🇦 украинском](https://www.canada.ca/en/immigration-refugees-citizenship/news/2022/03/canada-ukraine-authorization-for-emergency-travel-en-ua.html).
+- [Податься](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures/portal-application-ukraine-cuaet.html) на визу по программе CUAET.
+-  Задать вопрос в чате [UA to Canada.](https://t.me/UAtoCanada), если что то непонятно. Но, сперва, прочитав [правила](chat_rules.md).  
+- Изучить [статистику](https://docs.google.com/spreadsheets/d/1sgUPbogDw7V4rakrBSJ07_YLhvVem79rtGq7Xj__ec0/edit#gid=0) по срокам рассмотрения кейсов участников чата.
+- Прочитать [FAQ](faq.md)(часто задаваемые вопросы). Велик шанс, что на ваш вопрос уже есть ответ там.
 
 :::caution
-CUAET - НЕ беженство, а статус [temporary resident](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents.html). Рассчитывать придётся только на себя, искать помощь от местных в группах на Facebook.
+CUAET - НЕ беженство, а статус [temporary resident](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents.html). Рассчитывать придётся только на себя, искать помощь от местных волонтерских организаций.
 :::
 
-## Детали 
+## Детали программы CUAET.
 - Виза даётся на срок до 10 лет или до окончания паспорта и даёт возможность подаваться на work permit во время подачи на визу. (бесплатно).
 - Срок рассмотрения - до 14 дней.
 - Work permit выдаётся на границе по приезду, если вы подавались outside Canada.
