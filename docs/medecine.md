@@ -91,10 +91,10 @@ sidebar_position: 5
 [Ссылка на программу](https://www.gov.nl.ca/hcs/mcp/)
 
 ## Yukon
-Название программы: **Yukon Health Care Insurance Plan(YHCIP))**
-Требования:**Work Permit действующий хотя бы 12 месяцев,proof of residency**
-Период ожидания:**3 месяца**
-[Ссылка на программу](https://yukon.ca/en/health-care-card)
+Название программы: **Yukon Health Care Insurance Plan(YHCIP))**  
+Требования:**Work Permit действующий хотя бы 12 месяцев,proof of residency**  
+Период ожидания:**3 месяца**  
+[Ссылка на программу](https://yukon.ca/en/health-care-card)  
 
 ------
 
