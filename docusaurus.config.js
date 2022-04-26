@@ -44,6 +44,10 @@ const config = {
           trackingID: 'UA-39274880-6',
           anonymizeIP: true,
         },
+        gtag: {
+          trackingID: 'GTM-PN5K36F',
+          anonymizeIP: true,
+        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
