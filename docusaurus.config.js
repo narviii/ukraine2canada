@@ -36,7 +36,7 @@ const config = {
         },
         blog: {
           blogTitle: 'Новости о Канаде и иммиграции',
-          //blogDescription: 'A Docusaurus powered blog!',
+          blogDescription: 'Новости о Канаде и иммиграции',
           postsPerPage: 'ALL',
         },
 
@@ -69,7 +69,11 @@ const config = {
             position: 'left',
             label: 'Информация',
           },
-          {to: 'blog', label: 'Новости', position: 'left'}, // or position: 'right'
+          {
+            to: 'blog',
+            label: 'Новости',
+            position: 'left'
+          }, // or position: 'right'
 
           {
             href: 'https://github.com/narviii/ukraine2canada',
