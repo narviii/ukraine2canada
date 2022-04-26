@@ -50,16 +50,17 @@ sidebar_position: 5
 
 
 ## British Columbia
+:::note
+Теперь с первого дня для прибывающих по CUAET!
+:::
 Название программы: **MSP(Medical Services Plan)**.    
 Требования: **Work permit**.  
-Период ожидания: **До трех месяцев.**  
-[Ссылка на программу](https://www2.gov.bc.ca/gov/content/health/health-drug-coverage/msp/bc-residents), 
-[податься онлайн](https://my.gov.bc.ca/msp/enrolment/check-eligibility).  
+Период ожидания: **[С первого дня](https://news.gov.bc.ca/releases/2022MUNI0025-000647) для прибывающих по CUAET**  
+- [Информация о программе](https://www2.gov.bc.ca/gov/content/health/health-drug-coverage/msp/bc-residents)  
+- [Как податься на программу](https://www2.gov.bc.ca/gov/content/health/health-drug-coverage/msp/bc-residents/eligibility-and-enrolment/how-to-enrol)
+- [Податься на программу онлайн](https://my.gov.bc.ca/msp/enrolment/check-eligibility).  
+  
 Информация о здравоохранении в BC на сайте [HealthLinkBC](https://www.healthlinkbc.ca/).    
-:::info
-Для подающихся по CUAET период ожидания обещают в ближайшее время отменить
-:::
-
 
 ## Prince Edward Island
 Требования: **Work permit, may request job offer.**.  
