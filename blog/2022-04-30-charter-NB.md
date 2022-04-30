@@ -5,7 +5,7 @@ authors:
     url: https://twitter.com/narvi
     image_url: https://avatars.githubusercontent.com/u/9408146
 tags: [New Brunswick, travel,flights]
-image: https://live.staticflickr.com/65535/51983423305_67172cb6a8_b.jpg
+image: https://www.cicnews.com/wp-content/uploads/2021/09/MicrosoftTeams-image-37.jpg
 hide_table_of_contents: false
 ---
 
