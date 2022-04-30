@@ -36,6 +36,9 @@ CUAET - НЕ беженство, а статус [temporary resident](https://ww
 
 Если вы допустили ошибку в заявке и хотите оповестить IRCC, воспользуйтесь [вебформой](https://secure.cic.gc.ca/ClientContact/en/Crisis) и добавьте в текст сообщения тег **Ukraine2022**
 
+## Новости
+[Новости](/blog) програм, иммиграции и жизни в канаде.
+
 ## Полезная информация 
 
 ✈️ [Фонд по финансированию перелетов](https://miles4migrants.org/) украинцев в Канаду откроют к середине мая(Miles4Migrants). [Подать заявку](https://miles4migrants.org/ukraine2canada/) можно уже сейчас, а так же изучить [FAQ](https://miles4migrants.org/faq/) программы.  
