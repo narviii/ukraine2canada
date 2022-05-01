@@ -25,7 +25,7 @@ AHS (Alberta Health Services) [для украинцев](https://www.albertahea
 
 Калгари. [Помощь волонтеров](https://docs.google.com/forms/d/e/1FAIpQLScReyCbNSfeApP_MobtaAxw19qq8mIxi5Zf2nR2d6zoOpZYvw/viewform). Для тех, кто остается в районе Калгари, приоритет для малозащищенных иммигрантов. Лучше обратиться до вылета из-за большой загруженности(разная поддержка) 
 
-Калгари. Newcomers collaborative. [Приянка Джилл](priankag@immigrantservicescalgary.ca) (Разная поддержка).  
+Калгари. Newcomers collaborative. [Приянка Джилл](mailto:priankag@immigrantservicescalgary.ca) (Разная поддержка).  
 
 Эдмонтон. [Ukrainian Canadian social services](https://ucssedmonton.ca/uk/attention/). 11717 – 97th Street,  Эдмонтон, AB, T5G 1Y3 (Разная поддержка)
 
