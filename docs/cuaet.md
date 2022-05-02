@@ -86,6 +86,12 @@ CUAET - НЕ беженство, а статус [temporary resident](https://ww
 
 👋 Прибывающим в ⚜️ Квебек, будет оказанна помощь. [Информация о программе](https://www.quebec.ca/immigration/accueil-ukrainiens/en-ukrainien). Так же, в аэропорту **Pierre Elliott Trudeau International Airport** установленна будка, чтобы помочь прилетевшим 🇺🇦.
 
+🇺🇦 [Украинский конгресс](https://unfcanada.ca/). Помощь с трудоустройством, английским. [Представительства](https://unfcanada.ca/branches/) во многих провинциях.  
+
+🇺🇦 [Ukrainian Canadian Congress](https://ucc.ca). Информация для иммигрантов, связь с политиками
+
+
+
 
 :::tip
 Подаваться на work and study permit, по CUAET, находясь в Канаде, можно! 
@@ -94,6 +100,8 @@ CUAET - НЕ беженство, а статус [temporary resident](https://ww
 💻 Информация о [work permit](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures/ukraine-open-work-permit.html)
 
 🎓 Информация о [study permit](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures/study.html)
+
+
 
 ## Связь с IRCC
 

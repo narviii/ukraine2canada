@@ -3,7 +3,7 @@ sidebar_position: 20
 description: Чек лист для приехавших в Альберту. Что нужно сделать в первую очередь.
 ---
 
-# ✅ Чек-лист для приехавших в Альберту (AB). 
+# ✅ Чек-лист. Альберта (AB). 
 
 ## Что нужно сделать в первую очередь?
 
@@ -15,13 +15,11 @@ description: Чек лист для приехавших в Альберту. Ч
 - [ ] **Healthcare Card** (бумажная, Обращайтесь осторожно! Носите с собой). Получить можно по почте, подав завяление и копии документов [почтой](https://www.alberta.ca/ahcip-temporary-residents.aspx), или лично в некоторых [Registry](https://www.alberta.ca/ahcip-registry-locations.aspx#jumplinks-0) Сам процесс займет пару недель. Все вопросы по собственно здоровью, поиску докторов и тому подобное - **811**
 - [ ] Пройти **Medical Diagnostic Test** (медосмотр), если не прошли до приезда в Канаду (на это есть 90 дней).
 
-## Организации в Альберте, оказывающие помощь новоприбывшим.
-
-
+## Организации оказывающие помощь в Альберте.
 
 [Помощь переселенцам](mailto:info@ukraniansinalberta.ca) в Catholic public services.  
 
-AHS (Alberta Health Services) [для украинцев](https://www.albertahealthservices.ca/asu/Page17937.aspx). Информация о доступных сервисах и дополнительные ресурсы.  
+[AHS (Alberta Health Services)](https://www.albertahealthservices.ca/asu/Page17937.aspx) для украинцев. Информация о доступных сервисах и дополнительные ресурсы.  
 
 Калгари. [Помощь волонтеров](https://docs.google.com/forms/d/e/1FAIpQLScReyCbNSfeApP_MobtaAxw19qq8mIxi5Zf2nR2d6zoOpZYvw/viewform). Для тех, кто остается в районе Калгари, приоритет для малозащищенных иммигрантов. Лучше обратиться до вылета из-за большой загруженности(разная поддержка) 
 
@@ -33,4 +31,9 @@ AHS (Alberta Health Services) [для украинцев](https://www.albertahea
 
 Эдмонтон. [Community Legal Centre](https://www.eclc.ca/). Бесплатная юридическая поддержка
 
-Всем этим организациям можно писать и звонить "приезжаю, такая то история, не знаю что делать".
+Всем этим организациям можно писать и звонить: "приезжаю, такая то история, не знаю что делать".
+
+## Информация об Альберте
+
+[Информация](https://www.calgaryucc.ca/ukrainians-fleeing-war-to-yyc.html) для украинцев едущих в Калгари.  
+[Памятка для украинцев](https://open.alberta.ca/dataset/d5394885-f4e7-4ccc-a291-5ac8bdfb52a0/resource/f0d5a12a-f57e-43e6-8405-a125fee37817/download/lbr-information-guide-for-ukrainians-arriving-in-alberta-ukrainian.pdf) едущих в Альберту, от властей Альберты(памятка премьера Альберты).
