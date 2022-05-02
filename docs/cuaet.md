@@ -76,13 +76,7 @@ CUAET - НЕ беженство, а статус [temporary resident](https://ww
 
 ✈️ Бесплатные билеты [WizzAir](https://wizzair.com/en-gb/information-and-services/faq/ukrainian-refugee-free-tickets?fbclid=IwAR2V3ZPH_I001iQxoPshWbHunWUDhpO6-gFl_Xj9a0ipCgCzIgeAQ1IyBJk)
 
-👋 Помощь правительства Британской Колумбии(провинция Канады) прибывающим украинцам. Информация, жилье, трудоустройство. На [английском](https://www2.gov.bc.ca/gov/content/tourism-immigration/ukraine/welcome), [русском](https://www2.gov.bc.ca/gov/content/tourism-immigration/ukraine/translation/ru), [українська](https://www2.gov.bc.ca/gov/content/tourism-immigration/ukraine/translation/ukr). Горячая линия ServiceBC работающая на 140 языках(включая русский и украинский) **1-800-663-7867**. Время работы с 7:30 am до 5 pm (по Ванкуверу).  
-
-📖 Официальный [гайд для прибывающих](https://settlement.org/o2o/downloads/O2O-Workbook-Ukrainian-2022.pdf) в Онтарио украинцев.  
-
 👋 [Бесплатная(pro bono)](https://www.cba.org/For-The-Public/Pro-Bono-Initiatives/Crisis-in-Ukraine) юридическая помощь для украинцев от Канадской Ассоциации Юристов(CBA Immigration Ukraine Pro Bono Initiative)  
-
-💰 Финансовая поддержка от Онтарио, прибыающим по [CUAET](https://www.ontario.ca/page/apply-emergency-assistance).
 
 👋 Прибывающим в ⚜️ Квебек, будет оказанна помощь. [Информация о программе](https://www.quebec.ca/immigration/accueil-ukrainiens/en-ukrainien). Так же, в аэропорту **Pierre Elliott Trudeau International Airport** установленна будка, чтобы помочь прилетевшим 🇺🇦.
 
