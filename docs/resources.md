@@ -33,6 +33,7 @@ description: Подборка ссылок на полезные ресурсы 
 - [Ukrainian Vancouver](https://www.ukrainianvancouver.com/) Ukrainian Vancouver is an independent community platform connecting people in Vancouver with resources to assist Ukrainians in their time of need.
 - [Jobs for Ukraine](https://www.jobbank.gc.ca/report_note.do?cid=18538) Официальная база работы для прибывающих украинцев, созданная Канадой.
 - [Помощь украинцам, переезжающим в Канаду](https://canada-ukraine.notion.site/canada-ukraine/3e7c08db679d4289bbcd071e0e69487b) Информационный сайт. Гайды, полезные ссылки, информация.
+- [Maidan Market](https://www.maidanmarket.ca/) Волонтерский пункт помощи в Оттаве.
 
 
 ## Каналы телеграм, про жизнь в Канаде.
