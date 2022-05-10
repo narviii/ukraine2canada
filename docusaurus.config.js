@@ -63,7 +63,7 @@ const config = {
       navbar: {
         title: 'UA to Canada',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'UA to Canada logo',
           src: 'img/can2ukr.jpeg',
         },
         items: [
@@ -73,12 +73,17 @@ const config = {
             position: 'left',
             label: 'Информация',
           },
+
           {
             to: 'blog',
             label: 'Новости',
             position: 'left'
           }, // or position: 'right'
-
+          {
+            href: 'https://track.ua2canada.info/',
+            label: 'Сроки получения виз',
+            position: 'left',
+          },
           {
             href: 'https://github.com/narviii/ukraine2canada',
             label: 'GitHub',
