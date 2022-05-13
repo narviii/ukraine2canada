@@ -26,6 +26,7 @@ description: Подборка ссылок на полезные ресурсы 
 - [dopomogaCAN](https://www.facebook.com/groups/375451514101214). Помощь Украинцам.
 - [CANADA - Host Ukrainians / Hébergeons les Ukrainiens](https://www.facebook.com/groups/3148765652075065/?ref=share) Группа о помощи с жильем для украинцев.
 - [Українці у Ванкувері / Ukrainians in Vancouver](https://www.facebook.com/groups/UkrainiansInVancouver/) Ми є локальна спільнота створена для знайомства, дружби, спілкування та взаємодопомоги українців, що проживають у Ванкувері (Британська Колумбія).
+- [Canadian Jobs For Ukrainians](https://www.facebook.com/groups/331716475664506) Работа для украинце в 🇨🇦.
 
 ## Web ресурсы
 - [Project Sunflower](https://www.projectsunflower.ca/) Альберта. ПРОЕКТ СОНЯШНИК. Project Sunflower. Помощь newcomers из Southern Alberta.
