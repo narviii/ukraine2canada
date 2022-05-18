@@ -40,8 +40,9 @@ CUAET - НЕ беженство, а статус [temporary resident](https://ww
 [Новости](/blog) программ, иммиграции и жизни в 🇨🇦Канаде.
 
 ## Полезная информация 
-
-✈️ [Чартеры](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures/settlement/flight-information.html) для уже получивших визу по [CUAET](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures/cuaet.html).
+:::info
+✈️ [Чартеры](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures/settlement/flight-information.html) ✈️ в 🇨🇦 для уже получивших визу по [CUAET](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures/cuaet.html). Ближайший из **Варшавы** в **Монреаль**, **29 мая!!**
+:::
 
 🇨🇦 [Полезные ссылки](https://canada.mfa.gov.ua/konsulski-pitannya/pravila-vyizdu-do-kanadi) для прибывающих украинцев от правительства Канады.
 
