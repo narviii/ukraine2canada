@@ -36,5 +36,8 @@ description: Чек лист для приехавших в Альберту. Ч
 
 ## Информация об Альберте
 
-[Информация](https://www.calgaryucc.ca/ukrainians-fleeing-war-to-yyc.html) для украинцев едущих в Калгари.  
+[Информация](https://www.calgaryucc.ca/ukrainians-fleeing-war-to-yyc.html) для украинцев едущих в Калгари от Конгресса Украинцев Канады.  
+
 [Памятка для украинцев](https://open.alberta.ca/dataset/d5394885-f4e7-4ccc-a291-5ac8bdfb52a0/resource/f0d5a12a-f57e-43e6-8405-a125fee37817/download/lbr-information-guide-for-ukrainians-arriving-in-alberta-ukrainian.pdf) едущих в Альберту, от властей Альберты(памятка премьера Альберты).
+
+[Едмонтон CUAET](https://t.me/edmontonCUAET). Телеграм чат про Эдмонтон, для приехавших по CUAET. support, питання, пропозиції .  
