@@ -41,6 +41,8 @@ CUAET - НЕ беженство, а статус [temporary resident](https://ww
 
 ## Полезная информация 
 
+✈️ [Чартеры](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures/settlement/flight-information.html) для уже получивших визу по [CUAET](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures/cuaet.html).
+
 🇨🇦 [Полезные ссылки](https://canada.mfa.gov.ua/konsulski-pitannya/pravila-vyizdu-do-kanadi) для прибывающих украинцев от правительства Канады.
 
 ☎️ Бесплатная [мобильная связь](https://videotron.com/en/shop/newcomers-plans/ukraine) на шесть месяцев для украинцев от Videotron. Предложение действует до 31 июля 2022 года и распространяется на украинцев, прибывших в Канаду 1 января 2022 года или позже. 
