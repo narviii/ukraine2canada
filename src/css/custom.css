@@ -45,4 +45,7 @@
   h2 {
     font-size: 1.5rem;
   }
+  article header h2 {
+    font-size: 2rem !important;
+  }
 }
