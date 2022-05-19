@@ -19,6 +19,7 @@ description: Подборка ссылок на полезные ресурсы 
 - [Вождение в Канаде/Drive in Canada](https://t.me/drive_in_canada) Делимся опытом сдачи теста по вождению, информацией и всем что касается вождения в Канаде. Помогаем друг-другу.  
 - [Адаптация в Канаде](https://t.me/canadadaptation) Чат, для тех кто уже в Канаде по программе QUAET или уже с визой и планирует поездку.  
 - [Едмонтон CUAET](https://t.me/edmontonCUAET) Эдмонтон, для приехавших по CUAET. support, питання, пропозиції .  
+- [(UA) Ukrainians in Canada IT / Tech](https://t.me/uaitincanada) IT Канада, по-украински.
 
 
 ## FB groups
