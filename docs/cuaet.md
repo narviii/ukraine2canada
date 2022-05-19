@@ -8,6 +8,10 @@ description: Информация для украинцев иммигрирую
 
 ## Что такое программа CUAET 
 
+:::warning
+⚠️ Внимание!!!  ✈️[Чартеры](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures/settlement/flight-information.html) в 🇨🇦 для уже получивших визу по [CUAET](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures/cuaet.html). Ближайший из **Варшавы** в **⚜️Монреаль**, **29 мая!!**
+:::
+
 Для помощи людям, затронутым русским вторжением на 🇺🇦Украину, 🇨🇦Канада создала программу **CUAET**(Canada-Ukraine Authorization for Emergency Travel). Цель программы - помочь украинцам и членам их семей максимально быстро попасть в 🇨🇦Канаду и дать им возможность учится и работать в нашей стране. Требования программы - минимальны. По факту, если у вас есть украинский пасспорт, то вы можете приехать в Канаду, жить здесь и работать в течении трех лет.
 
 - Изучить информацию о программе CUAET на [🇬🇧английском](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures/cuaet.html),[🇺🇦украинском](https://www.canada.ca/en/immigration-refugees-citizenship/news/2022/03/canada-ukraine-authorization-for-emergency-travel-en-ua.html).
@@ -40,9 +44,7 @@ CUAET - НЕ беженство, а статус [temporary resident](https://ww
 [Новости](/blog) программ, иммиграции и жизни в 🇨🇦Канаде.
 
 ## Полезная информация 
-:::info
-✈️ [Чартеры](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures/settlement/flight-information.html) ✈️ в 🇨🇦 для уже получивших визу по [CUAET](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures/cuaet.html). Ближайший из **Варшавы** в **Монреаль**, **29 мая!!**
-:::
+
 
 🇨🇦 [Полезные ссылки](https://canada.mfa.gov.ua/konsulski-pitannya/pravila-vyizdu-do-kanadi) для прибывающих украинцев от правительства Канады.
 
