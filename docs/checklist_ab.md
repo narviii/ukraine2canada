@@ -16,23 +16,27 @@ description: Чек лист для приехавших в Альберту. Ч
 - [ ] Получить **Healthcare Card** (бумажная, Обращайтесь осторожно! Носите с собой). Можно по почте, подав завяление и копии документов [почтой](https://www.alberta.ca/ahcip-temporary-residents.aspx), или лично в некоторых [Registry](https://www.alberta.ca/ahcip-registry-locations.aspx#jumplinks-0) Сам процесс займет пару недель. Все вопросы по собственно здоровью, поиску докторов и тому подобное - **811**
 - [ ] Пройти **Medical Diagnostic Test** (медосмотр), если не прошли до приезда в Канаду (на это есть 90 дней).
 
-## Организации оказывающие помощь в Альберте.
+## Организации оказывающие помощь в Альберте
 
 [Помощь переселенцам](mailto:info@ukraniansinalberta.ca) в Catholic public services.  
 
 [AHS (Alberta Health Services)](https://www.albertahealthservices.ca/asu/Page17937.aspx) для украинцев. Информация о доступных сервисах и дополнительные ресурсы.  
 
-Калгари. [Помощь волонтеров](https://docs.google.com/forms/d/e/1FAIpQLScReyCbNSfeApP_MobtaAxw19qq8mIxi5Zf2nR2d6zoOpZYvw/viewform). Для тех, кто остается в районе Калгари, приоритет для малозащищенных иммигрантов. Лучше обратиться до вылета из-за большой загруженности(разная поддержка) 
+### Калгари
+[Помощь волонтеров](https://docs.google.com/forms/d/e/1FAIpQLScReyCbNSfeApP_MobtaAxw19qq8mIxi5Zf2nR2d6zoOpZYvw/viewform). Для тех, кто остается в районе Калгари, приоритет для малозащищенных иммигрантов. Лучше обратиться до вылета из-за большой загруженности(разная поддержка) 
 
-Калгари. Newcomers collaborative. [Приянка Джилл](mailto:priankag@immigrantservicescalgary.ca) (Разная поддержка).  
+[Приянка Джилл](mailto:priankag@immigrantservicescalgary.ca). Newcomers collaborative. Разная поддержка.  
 
-Эдмонтон. [Ukrainian Canadian social services](https://ucssedmonton.ca/uk/attention/). 11717 – 97th Street,  Эдмонтон, AB, T5G 1Y3 (Разная поддержка)
+### Эдмонтон
+[Ukrainian Canadian social services](https://ucssedmonton.ca/uk/attention/). 11717 – 97th Street,  Эдмонтон, AB, T5G 1Y3 (Разная поддержка)
 
-Эдмонтон. Центр "Вітаємо" (Kinsway Mall) Соц центр, можно обращаться за любой помощью, даже просто поговорить. Есть детская зона.  780-456-6932. Часы работы 1100-1600.  
+Центр "Вітаємо" (Kinsway Mall) Соц центр, можно обращаться за любой помощью, даже просто поговорить. Есть детская зона.  780-456-6932. Часы работы 1100-1600.  
 
-Эдмонтон. [Community Legal Centre](https://www.eclc.ca/). Бесплатная юридическая поддержка
+[Community Legal Centre](https://www.eclc.ca/). Бесплатная юридическая поддержка
 
-Всем этим организациям можно писать и звонить: "приезжаю, такая то история, не знаю что делать".
+[Фуд Банк Эдмонтона](https://www.edmontonsfoodbank.com) Бесплатные продукты. Нужно позвонить [780-425-4190](tel:780-425-4190) и зарегистрироваться. Ограничений по срокам нет, можно обратиться, если нужно. Взять с собой паспорт.
+
+Бесплатный доступ к рекреационным центрам (Leisure Access Program) в Эдмонтоне и общественный транспорт со скидкой (Ride Transit Program). Податься [вот тут](https://www.edmonton.ca/sites/default/files/public-files/assets/PDF/CUAETLeisureAccessRideTransitProgramApplicationForm.pdf?fbclid=IwAR2PPzoOCDVfp0UM7RNh_egcv1hHCzYeE2H1eRMHd1fT5ZQJA3sW8AOL-_0). Рекреационные центры(они же коммьюнити центры) это тренажерные залы, разные классы и вообще много чего интересного предоставляемого городом(не коммерческое)
 
 ## Информация об Альберте
 
@@ -41,3 +45,4 @@ description: Чек лист для приехавших в Альберту. Ч
 [Памятка для украинцев](https://open.alberta.ca/dataset/d5394885-f4e7-4ccc-a291-5ac8bdfb52a0/resource/f0d5a12a-f57e-43e6-8405-a125fee37817/download/lbr-information-guide-for-ukrainians-arriving-in-alberta-ukrainian.pdf) едущих в Альберту, от властей Альберты(памятка премьера Альберты).
 
 [Едмонтон CUAET](https://t.me/edmontonCUAET). Телеграм чат про Эдмонтон, для приехавших по CUAET. support, питання, пропозиції .  
+

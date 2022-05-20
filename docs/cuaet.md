@@ -40,6 +40,7 @@ CUAET - НЕ беженство, а статус [temporary resident](https://ww
 
 ## 💁 Полезная информация 
 
+📚 [Колледжи и институты Канады](https://www.collegesinstitutes.ca/news-centre/news-release/colleges-and-institutes-to-provide-scholarships-and-other-supports-for-ukrainian-students-coming-to-canada/) предлагают стипендии и/или иные формы помощи, бесплатное обучение до года в том числе.
 
 🇨🇦 [Полезные ссылки](https://canada.mfa.gov.ua/konsulski-pitannya/pravila-vyizdu-do-kanadi) для прибывающих украинцев от правительства Канады.
 
