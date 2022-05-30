@@ -1,0 +1,8 @@
+{
+    "position": 2.5,
+    "label": "💻 Работа в 🇨🇦Канаде",
+    "collapsible": true,
+    "collapsed": false,
+    "className": "red",
+    "link": {"type": "doc", "id": "README"}
+  }
