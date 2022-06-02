@@ -9,7 +9,7 @@ image: https://www.canada.ca/etc/designs/canada/wet-boew/assets/sig-blk-en.svg
 hide_table_of_contents: false
 ---
 
-Канада начала предоставлять однократную финансовую помощь для прибывших по CUAET. Пособие однократное и не облагается налогом. 
+Канада начала предоставлять [однократную финансовую помощь](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures/settlement/get-financial-assistance.html) для прибывших по CUAET. Пособие однократное и не облагается налогом. 
 
 Кому можно подаваться?  
 
