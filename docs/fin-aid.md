@@ -1,23 +1,19 @@
 ---
-title: 💰 Однократная финансовая помощь для прибыших по CUAET.
-authors:
-  - name: Vlad Sofronov
-    url: https://twitter.com/narvi
-    image_url: https://avatars.githubusercontent.com/u/9408146
-tags: [money,federal]
-image: https://www.canada.ca/etc/designs/canada/wet-boew/assets/sig-blk-en.svg
-hide_table_of_contents: false
+sidebar_position: 2
+description: Как получить финансовую помощь которую Канада предоставляет пребывшим по визе CUAET.
 ---
+
+# 💰 Финансовая помощь для прибыших по CUAET.
 
 Канада начала предоставлять [однократную финансовую помощь](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures/settlement/get-financial-assistance.html) для прибывших по CUAET. Пособие однократное и не облагается налогом. 
 
-Кому можно подаваться?  
+### Кому можно подаваться?  
 
 - Уже находящимся в Канаде.
 - Прибывшим по CUAET(имеющим подтверждение этого)
 - Уже открывшим банковский счет в Канаде.
 
-Как податься?  
+### Как податься?  
 
 Чтобы податься на помощь вам потребуется узнать у своего банка следущее:
 
@@ -31,9 +27,15 @@ hide_table_of_contents: false
 - Номер unique client identifier (UCI)
 - Номер temporary resident status document [IMM 1442]
 
-Найти эти номера на вашем work permit можно сверив с [этой картинкой](/img/imm1444_visitor_record.jpeg). Номер IMM 1442 я отметил <span style={{color:"red"}}>красным</span> , а номер  UCI   <span style={{color:"green"}}>зеленым</span>. 
+Найти их можно на вашем Work Permit:
 
-Имя на вашей IMM 1442 форме обязательно должно совпадать с именем на которое вы открыли банковский счет. Так же, ваш IMM 1442 должен иметь пометку о том что вы в Канаде по программе CUAET. После этого [податься онлайн.](https://srv217.services.gc.ca/ihst4/Questionnaire.aspx?sid=7c5d8cd8-ef9e-4f91-ab07-112bbce770bb&lc=eng&GocTemplateCulture=en-CA&iffsappid=cats&iffssid=8cc3d4ba-8fdb-4907-b14a-b5782a3a3d3c)
+<div style={{display:"flex",flexDirection:"row",justifyContent:"center"}}>
+    <img src="/img/imm1444_visitor_record.jpeg" style={{height:"auto",maxWidth:"500px",objectFit:"contain",margin:"10px"}} />
+</div>
+
+Номер IMM 1442 я отметил <span style={{color:"red"}}>красным</span> , а номер  UCI   <span style={{color:"green"}}>зеленым</span>. 
+
+Имя на вашей IMM 1442 форме обязательно должно совпадать с именем на которое вы открыли банковский счет. Так же, ваш IMM 1442 должен иметь пометку о том что вы в Канаде по программе CUAET. После этого нужн [податься онлайн.](https://srv217.services.gc.ca/ihst4/Questionnaire.aspx?sid=7c5d8cd8-ef9e-4f91-ab07-112bbce770bb&lc=eng&GocTemplateCulture=en-CA&iffsappid=cats&iffssid=8cc3d4ba-8fdb-4907-b14a-b5782a3a3d3c). После деньги будут перечисленны на ваш счет.
 
 [Больше информации ](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures/settlement/get-financial-assistance.html) (официальный источник)
 
