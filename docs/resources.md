@@ -21,7 +21,7 @@ description: Подборка ссылок на полезные ресурсы 
 - [Едмонтон CUAET](https://t.me/edmontonCUAET) Эдмонтон, для приехавших по CUAET. support, питання, пропозиції .  
 - [(UA) Ukrainians in Canada IT / Tech](https://t.me/uaitincanada) IT Канада, по-украински.
 - [🐕 Pets to Canada](https://t.me/petstocanada) Чат для тех, кто везёт животных в Канаду
-
+- [UA Ванкувер](https://t.me/UaVancouver) Українці у Ванкувері 🇺🇦🇨🇦
 
 ## FB groups
 - [Ukrainian Women in Calgary.](https://www.facebook.com/groups/ukrainiancalgary) Албберта. Українці в Калгарі. Ми тут є!))).  
