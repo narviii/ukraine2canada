@@ -44,7 +44,9 @@ description: Как получить 💰финансовую помощь, ко
 - Номер **unique client identifier** (UCI)
 - Номер **temporary resident status document** [IMM 1442]
 - Наличие отметки **CUAET** в вашем **work permit** (Обычно находится внизу документа в блоке **Remarks или Conditions**)
-
+<div style={{display:"flex",flexDirection:"row",justifyContent:"center",padding:"5px"}}>
+    <img src="/img/cuaet_remark.jpg" style={{objectFit:"contain"}} />
+</div>
 ### Где найти UCI и IMM 1442?
 
 Найти их можно на вашем Work Permit:
