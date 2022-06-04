@@ -29,7 +29,7 @@ description: Как получить 💰финансовую помощь, ко
 ### Как узнать свои transit,institution и account number?
 Вы можете получить эту информацию у своего банка в виде **direct deposit form** или **void cheque.** Это можно получить в отделении банка, либо в некоторых банках  online.
 
-Номерами на картинке void cheque отмеченно:  
+Номерами на картинке void cheque отмечено:  
 <div style={{display:"flex",flexDirection:"row",justifyContent:"center",width:"100%",padding:"5px"}}>
     <img src="/img/cheque.webp" style={{objectFit:"contain"}} />
 </div>
@@ -47,7 +47,7 @@ description: Как получить 💰финансовую помощь, ко
 <div style={{display:"flex",flexDirection:"row",justifyContent:"center",padding:"5px"}}>
     <img src="/img/cuaet_remark.jpg" style={{objectFit:"contain"}} />
 </div>
-### Где найти UCI и IMM 1442?
+### Где найти номера UCI и IMM1442?
 
 Найти их можно на вашем Work Permit:
 
