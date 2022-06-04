@@ -30,8 +30,8 @@ description: Как получить 💰финансовую помощь, ко
 Вы можете получить эту информацию у своего банка в виде **direct deposit form** или **void cheque.** Это можно получить в отделении банка, либо в некоторых банках  online.
 
 Номерами на картинке void cheque отмеченно:  
-<div style={{display:"flex",flexDirection:"row",justifyContent:"center"}}>
-    <img src="/img/cheque.webp" style={{height:"auto",maxWidth:"500px",objectFit:"contain",margin:"10px"}} />
+<div style={{display:"flex",flexDirection:"row",justifyContent:"center",width:"100%",padding:"5px"}}>
+    <img src="/img/cheque.webp" style={{objectFit:"contain"}} />
 </div>
 
 1. Transit number (5 цифр).
@@ -49,8 +49,8 @@ description: Как получить 💰финансовую помощь, ко
 
 Найти их можно на вашем Work Permit:
 
-<div style={{display:"flex",flexDirection:"row",justifyContent:"center"}}>
-    <img src="/img/imm1444_visitor_record.jpeg" style={{height:"auto",maxWidth:"500px",objectFit:"contain",margin:"10px"}} />
+<div style={{display:"flex",flexDirection:"row",justifyContent:"center",padding:"5px"}}>
+    <img src="/img/imm1444_visitor_record.jpeg" style={{objectFit:"contain"}} />
 </div>
 
 Номер IMM 1442 я отметил <span style={{color:"red"}}>красным</span> , а номер  UCI   <span style={{color:"green"}}>зеленым</span>. 
