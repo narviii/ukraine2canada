@@ -48,7 +48,11 @@ https://alis.alberta.ca/look-for-work/resumes-and-references/unavailable-or-prob
 
 [Бесплатные карьерные услуги](https://directionsforimmigrants.ca/) для иммигрантов-профессионалов, которым требуется получить лицензию для продолжения работы по специальности в Канаде (Калгари) 
 
+## Cвой бизнес
 
+В Канаде масса программ поддержки предпринимателей, например:  
+
+[www.futurpreneur.ca](https://www.futurpreneur.ca/en/) Поддержка предпринимателей.
 
 
 

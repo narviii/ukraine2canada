@@ -28,6 +28,8 @@ description: Чек лист для приехавших в Альберту. Ч
 [Приянка Джилл](mailto:priankag@immigrantservicescalgary.ca). Newcomers collaborative. Разная поддержка.  
 
 ### Эдмонтон
+
+(https://uatoabinfo.ca/en/accommodations/?fbclid=IwAR19At7mjDGmEygagmGcOOKTiE0hON-PLXTUQ7-i6Ut3MfI0PyW_3hmB-Ug)
 [Ukrainian Canadian social services](https://ucssedmonton.ca/uk/attention/). 11717 – 97th Street,  Эдмонтон, AB, T5G 1Y3 (Разная поддержка)
 
 Центр "Вітаємо" (Kinsway Mall) Соц центр, можно обращаться за любой помощью, даже просто поговорить. Есть детская зона.  780-456-6932. Часы работы 1100-1600.  
@@ -36,7 +38,9 @@ description: Чек лист для приехавших в Альберту. Ч
 
 [Фуд Банк Эдмонтона](https://www.edmontonsfoodbank.com) Бесплатные продукты. Нужно позвонить [780-425-4190](tel:780-425-4190) и зарегистрироваться. Ограничений по срокам нет, можно обратиться, если нужно. Взять с собой паспорт.
 
-Бесплатный доступ к рекреационным центрам (Leisure Access Program) в Эдмонтоне и общественный транспорт со скидкой (Ride Transit Program). Податься [вот тут](https://www.edmonton.ca/sites/default/files/public-files/assets/PDF/CUAETLeisureAccessRideTransitProgramApplicationForm.pdf?fbclid=IwAR2PPzoOCDVfp0UM7RNh_egcv1hHCzYeE2H1eRMHd1fT5ZQJA3sW8AOL-_0). Рекреационные центры(они же коммьюнити центры) это тренажерные залы, разные классы и вообще много чего интересного предоставляемого городом(не коммерческое)
+[Бесплатный доступ к рекреационным центрам](https://www.edmonton.ca/sites/default/files/public-files/assets/PDF/CUAETLeisureAccessRideTransitProgramApplicationForm.pdf?fbclid=IwAR2PPzoOCDVfp0UM7RNh_egcv1hHCzYeE2H1eRMHd1fT5ZQJA3sW8AOL-_0)  (Leisure Access Program) в Эдмонтоне и общественный транспорт со скидкой (Ride Transit Program). Рекреационные центры(они же коммьюнити центры) это тренажерные залы, разные классы и вообще много чего интересного предоставляемого городом(не коммерческое).
+
+[❗️Льготное жилье❗️](https://uatoabinfo.ca/en/accommodations/?fbclid=IwAR19At7mjDGmEygagmGcOOKTiE0hON-PLXTUQ7-i6Ut3MfI0PyW_3hmB-Ug) в Эдмонтоне для украинцев. Три месяца **бесплатного проживания**, **гибкие условия** лиза, **бесплатное отопление**, **электричество** и **вода**.
 
 ## Информация об Альберте
 
@@ -44,5 +48,7 @@ description: Чек лист для приехавших в Альберту. Ч
 
 [Памятка для украинцев](https://open.alberta.ca/dataset/d5394885-f4e7-4ccc-a291-5ac8bdfb52a0/resource/f0d5a12a-f57e-43e6-8405-a125fee37817/download/lbr-information-guide-for-ukrainians-arriving-in-alberta-ukrainian.pdf) едущих в Альберту, от властей Альберты(памятка премьера Альберты).
 
-[Едмонтон CUAET](https://t.me/edmontonCUAET). Телеграм чат про Эдмонтон, для приехавших по CUAET. support, питання, пропозиції .  
+[Едмонтон CUAET](https://t.me/edmontonCUAET) Телеграм чат про Эдмонтон, для приехавших по CUAET. support, питання, пропозиції .  
+
+[uatoabinfo.ca](https://uatoabinfo.ca/) Інформаційна допомога для громадян України, які прибувають в Альберту.
 
