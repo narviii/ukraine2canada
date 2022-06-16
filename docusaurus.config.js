@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'UA to Canada',
   tagline: 'Ресурс посвященный эммиграции в Канаду из Украины',
-  url: 'https://ua2canada.info',
+  url: 'https://www.ua2canada.info',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
