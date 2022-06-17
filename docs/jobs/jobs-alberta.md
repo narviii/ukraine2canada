@@ -24,9 +24,21 @@
  
 Должны иметь лицензию. Тут [список из нескольких агентств Альберты](https://alis.alberta.ca/look-for-work/find-work/job-banks-and-work-search-tools/using-employment-agencies-in-alberta/)
 
-## Cвой бизнес в Альберте.
+## Cвой бизнес в Альберте
 Отличный вариант, если у вас есть уже в этом опыт. Малый и средний бизнес исключительно важен для страны и вы без труда найдете программы поддержки малого бизнеса в своем регионе.  
 
 Например:  
 - [Business Link](https://businesslink.ca/what-we-do/immigrant-entrepreneur-program/) бесплатно консультируют на всех этапах открытия бизнеса + предоставляют множество платных услуг.  
-- [ATB enterpreneur centre](https://atbentrepreneurcentre.com/events/startup-steps/).  
+- [ATB enterpreneur centre](https://atbentrepreneurcentre.com/events/startup-steps/)  
+
+## Сертификация, Skilled Trades, образование  
+
+[Список](https://tradesecrets.alberta.ca/trades-in-alberta/compulsory-certification-trades/) Skilled Trades с обязательной сертификацией 
+
+Более подробно о том, как:  
+
+- [подвердить сертификацию (общее)](https://www.alberta.ca/foreign-qualification-recognition.aspx) 
+
+- [как подтвердить образование/квалификацию (дипломы и тп.)](https://www.alberta.ca/international-qualifications-assessment.aspx) 
+
+- [как получить лицензию Skilled Trades (сдать экзамен)](https://tradesecrets.alberta.ca/become-certified/qualify-based-on-work-experience/)
