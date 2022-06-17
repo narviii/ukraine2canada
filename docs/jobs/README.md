@@ -59,7 +59,7 @@ https://alis.alberta.ca/look-for-work/resumes-and-references/unavailable-or-prob
 - Очень много [общей информация о подтверждении образования](https://www.cicic.ca/927/identify_the_organization_responsible_for_recognition.canada) на сайте CICIC (The Canadian Information Centre for International Credentials)
 - [Общая информация о подтверждении образования, лицензиях](https://www.canada.ca/en/immigration-refugees-citizenship/services/new-immigrants/prepare-life-canada/prepare-work/credential-assessment/process.html) на сайте правительства Канады
 
-**Skilled trades** - такие специальности, как сварщик, механик, сантехник и т.д. - тоже регулируются провинциями/территориями и требуют лицензии. После получения лицензии можно получить [Red Seal] - это федеральная система лицензирования по 50+ специальностям, дающая воможность работать во всех провинциях. Если у вас есть (доказуемый) опыт работы по специальности, то возможно вы можете получить лицензию, подтвердив квалификацию в вашей провинции:
+**Skilled trades** - такие специальности, как сварщик, механик, сантехник и т.д. - тоже регулируются провинциями/территориями и требуют лицензии. После получения лицензии можно получить **Red Seal** - это федеральная система лицензирования по 50+ специальностям, дающая воможность работать во всех провинциях. Если у вас есть (доказуемый) опыт работы по специальности, то возможно вы можете получить лицензию, подтвердив квалификацию в вашей провинции:
 - [Альберта](https://tradesecrets.alberta.ca/become-certified/qualify-based-on-work-experience/) 
 - [БК](https://www.itabc.ca/apply-apprenticeship/challenging-certification-exams)
 - [Манитоба](https://www.gov.mb.ca/wd/apprenticeship/tradespersons/index.html)

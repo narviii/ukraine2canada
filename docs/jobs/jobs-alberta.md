@@ -37,8 +37,8 @@
 
 Более подробно о том, как:  
 
-- [подвердить сертификацию (общее)](https://www.alberta.ca/foreign-qualification-recognition.aspx) 
+- [Подвердить сертификацию (общее)](https://www.alberta.ca/foreign-qualification-recognition.aspx) 
 
-- [как подтвердить образование/квалификацию (дипломы и тп.)](https://www.alberta.ca/international-qualifications-assessment.aspx) 
+- [Подтвердить образование/квалификацию (дипломы и тп.)](https://www.alberta.ca/international-qualifications-assessment.aspx) 
 
-- [как получить лицензию Skilled Trades (сдать экзамен)](https://tradesecrets.alberta.ca/become-certified/qualify-based-on-work-experience/)
+- [Получить лицензию Skilled Trades (сдать экзамен)](https://tradesecrets.alberta.ca/become-certified/qualify-based-on-work-experience/)
