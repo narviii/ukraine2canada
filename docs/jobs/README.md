@@ -33,7 +33,7 @@
 - Почему вы - отличный кандидат на эту конкретную вакансию?
 - Почему вы хотите работать в этой компании?
   
-[Более подробно](https://alis.alberta.ca/look-for-work/cover-letters/cover-letter-outline/) о составлении cover letter, [чеклист для cover letter](https://alis.alberta.ca/look-for-work/cover-letters/cover-letters-open-the-door-to-an-interview/)
+[Более подробно](https://alis.alberta.ca/look-for-work/cover-letters/cover-letter-outline/) о составлении cover letter, [чеклист для cover letter](https://alis.alberta.ca/look-for-work/cover-letters/cover-letters-open-the-door-to-an-interview/). [Grammarly](https://www.grammarly.com) поможет проверить грамматику.
 
 ## References
 Рекомендации, от трех до пяти штук. Делятся на профессиональные (начальство, коллеги) и личные (преподаватели, руководители волонтерских организаций, клубов, спорт команд).  
@@ -45,6 +45,8 @@
 Не ограничивайтесь одним методом поиска работы! Искать можно онлайн (готовьтесь разослать великое множество резюме, не забудьте написать сопроводительное письмо к каждой вакансии), лично (подходит для поиска работы в магазинах, ресторанах и кафе, обязательно возьмите с собой резюме), среди знакомых (пишите в местные форумы соотечественников, убедитесь, что ваши друзья знают, что вы ищете работу), на ярмарках вакансий (job fairs) и с помощью агентств.
 
 ### Онлайн
+
+Размещая объявление о поиске работы в соцсетях и форумах, указывайте ваш уровень английского! [неофициальные тесты](https://www.canada.ca/en/public-service-commission/services/second-language-testing-public-service/self-assessment-tests.html)   
 
 - Пожалуй, самый популярный сайт, для всей Канады: https://indeed.com/  
 - Федеральный банк вакансий https://www.jobbank.gc.ca/findajob + [специальный раздел для иммигрантов из Ураины](https://www.jobbank.gc.ca/findajob/resources/jobsforukraine)
