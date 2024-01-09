@@ -111,6 +111,9 @@ const config = {
                 <p>
                 Обнаружили неточности? Пишите админам канала или <a href="mailto:narviii@gmail.com">мне</a>. Так же, можно оставить issue в <a href="https://github.com/narviii/ukraine2canada/issues">репозитории</a>.
                 <p>
+                <p>
+                Наш проект не про иммиграцию - <a target="_blank" href="https://ifeelbeautiful.ca/">indie makeup</a> for 🇨🇦Canadians.
+                </p>
                 
                 `
               }
