@@ -124,7 +124,7 @@ const config = {
 
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} UA to Canada. Built with magic by Vlad Sofronov.`,
+        copyright: `Copyright © ${new Date().getFullYear()} UA to Canada. built by <a href="https://digiprops.io">digiPROPS</a>.`,
       },
       prism: {
         theme: lightCodeTheme,
